@@ -86,7 +86,7 @@
     "object-keys": "^1.0.11",
     "querystring-es3": "^0.2.1",
     "reduce": "^1.0.1",
-    "semver": "^5.1.0",
+    "semver": "^7.5.2",
     "tunnel-agent": "^0.6.0"
   },
   "devDependencies": {
